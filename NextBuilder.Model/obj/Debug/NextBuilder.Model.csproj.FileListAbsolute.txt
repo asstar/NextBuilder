@@ -1,0 +1,5 @@
+F:\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csprojResolveAssemblyReference.cache

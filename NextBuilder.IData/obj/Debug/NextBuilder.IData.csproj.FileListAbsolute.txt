@@ -1,0 +1,7 @@
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.pdb
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csprojResolveAssemblyReference.cache
+F:\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.pdb

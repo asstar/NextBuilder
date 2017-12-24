@@ -1,0 +1,15 @@
+F:\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csprojResolveAssemblyReference.cache
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.xml
+F:\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.dll
+F:\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.pdb

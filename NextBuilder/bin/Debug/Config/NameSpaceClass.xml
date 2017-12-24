@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <namespaceclass>
+    <model>Next.WorkFlow.Entity</model>
+    <data>Next.WorkFlow.DALMySql</data>
+    <business>Next.WorkFlow.BLL</business>
+    <interface>Next.WorkFlow.IDAL</interface>
+    <factory />
+  </namespaceclass>
+</root>
